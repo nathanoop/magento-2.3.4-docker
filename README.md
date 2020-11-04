@@ -48,7 +48,7 @@ Then follow the following steps:
 
 8) You can check the server requirement are ok for magento installation in this url : http://127.0.0.1:8085/reqCheck.php
 
-9). Set up Magento bu using http://127.0.0.1:8085/, provide the same DB details added in docker-compose.yml
+9). Set up Magento by using http://127.0.0.1:8085/, provide the same DB details added in docker-compose.yml
 
 10). Complete the setup and site is visible in http://127.0.0.1:8085/ url.
 
