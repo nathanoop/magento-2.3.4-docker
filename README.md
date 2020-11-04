@@ -22,7 +22,9 @@ Then follow the following steps:
 2) Set mysql root credentials and name of the database to be created . Go to ~/docker-compose.yml and change mysql root password in database_server in:
 
 >  MYSQL_DATABASE: magento2
+
 >  MYSQL_USER: qbuser
+
 >  MYSQL_USER: qbpass
 
 3) Set up custom port to set up up magento localhost url, Currently 8085 is used so the local site is accesed as http://127.0.0.1:8085/
