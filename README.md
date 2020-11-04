@@ -2,8 +2,6 @@
 
 In this project, we are using:
 
-> Operating system: Ubuntu 16.04
-
 > Web Server: Apache2
 
 > Database Server: Mysql-server-5.7
