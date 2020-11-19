@@ -25,7 +25,7 @@ Then follow the following steps:
 
 >  MYSQL_USER: dbpass
 
-3). Set up custom port to set up up magento localhost url, Currently 8085 is used so the local site is accesed as http://127.0.0.1:8005/
+3). Set up custom port to set up up magento localhost url, Currently 8005 is used so the local site is accesed as http://127.0.0.1:8005/
 >   - "8005:80"
 
 4). Build the docker image.
